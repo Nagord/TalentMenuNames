@@ -1,8 +1,8 @@
 ﻿using HarmonyLib;
-using PulsarPluginLoader.Patches;
+using PulsarModLoader.Patches;
 using System.Collections.Generic;
 using System.Reflection.Emit;
-using static PulsarPluginLoader.Patches.HarmonyHelpers;
+using static PulsarModLoader.Patches.HarmonyHelpers;
 
 namespace TalentMenuNames
 {

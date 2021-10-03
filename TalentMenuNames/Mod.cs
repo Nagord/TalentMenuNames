@@ -1,10 +1,10 @@
-﻿using PulsarPluginLoader;
+﻿using PulsarModLoader;
 
 namespace TalentMenuNames
 {
-    class Plugin : PulsarPlugin
+    class Mod : PulsarMod
     {
-        public override string Version => "0.0.2";
+        public override string Version => "0.0.3";
 
         public override string Author => "Dragon";
 
